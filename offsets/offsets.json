@@ -1,10 +1,11 @@
 {
 "dwEntityList": 38449592,
 "dwLocalPlayer": 33970928,
+"dwLocalPlayerController": 36635016,
 "dwPawnHealth": 2056,
 "dwPlayerPawn": 2044,
 "dwSanitizedName": 1824,
 "dwViewMatrix": 36749024,
-"m_iTeamNum": 948,
+"m_iTeamNum": 599,
 "m_vecOrigin": 4628
 }
