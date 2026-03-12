@@ -1,5 +1,5 @@
 {
-  "unsafe": false,
+  "unsafe": true,
   "notice": "Willkommen bei ZeroXV2!",
   "version_current": 102,
   "version_minimum": 100
