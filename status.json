@@ -1,6 +1,6 @@
 {
-  "unsafe": true,
-  "notice": "Willkommen bei ZeroXV2!",
-  "version_current": 102,
+  "unsafe": false,
+  "notice": "Zu Schlecht?",
+  "version_current": 103,
   "version_minimum": 100
 }
